@@ -1,0 +1,6 @@
+[package]
+name = "not_quite_lisp"
+version = "0.1.0"
+authors = ["gumienny <mkgumienny@gmail.com>"]
+
+[dependencies]
