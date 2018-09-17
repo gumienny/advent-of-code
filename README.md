@@ -64,7 +64,7 @@ https://adventofcode.com
 - [x] [Day 2:  I Was Told There Would Be No Math](/2015/02/src/main.rs)
 - [x] [Day 3:  Perfectly Spherical Houses in a Vacuum](/2015/03/src/main.rs)
 - [x] [Day 4:  The Ideal Stocking Stuffer](/2015/04/src/main.rs)
-- [ ] [Day 5:  Doesn’t He Have Intern-Elves For This?](/2015/05/src/main.rs)
+- [x] [Day 5:  Doesn’t He Have Intern-Elves For This?](/2015/05/src/main.rs)
 - [ ] [Day 6:  Probably a Fire Hazard](/2015/06/src/main.rs)
 - [ ] [Day 7:  Some Assembly Required](/2015/07/src/main.rs)
 - [ ] [Day 8:  Matchsticks](/2015/08/src/main.rs)
