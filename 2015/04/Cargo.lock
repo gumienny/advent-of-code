@@ -1,0 +1,14 @@
+[[package]]
+name = "md5"
+version = "0.4.0"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+
+[[package]]
+name = "the_ideal_stocking_stuffer"
+version = "0.1.0"
+dependencies = [
+ "md5 0.4.0 (registry+https://github.com/rust-lang/crates.io-index)",
+]
+
+[metadata]
+"checksum md5 0.4.0 (registry+https://github.com/rust-lang/crates.io-index)" = "995999bcecec06dff8499bfafab45119c1d33a57d75a705b429d6d49f38c2f40"
